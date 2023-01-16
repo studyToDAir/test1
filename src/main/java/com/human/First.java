@@ -27,6 +27,7 @@ public class First extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("goGet 실행");
+		System.out.println("goGet 실행");
 	}
 
 	/**
